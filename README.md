@@ -12,13 +12,15 @@ Personas of the System<br><br>
      3.	Third Party users (Advocates)   -  Can view all the details of the record including history of land<br><br> 
 Architecture
 
+
 <!DOCTYPE html>
 <html>
 <head>
-<title> Chatbot </title>
+<title> </title>
 </head>
 <body>
 <table border = "1px">
+    <caption> Components Used </caption>
 <tr>
 <th> Components </th>
 <th> Purpose </th>
