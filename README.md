@@ -15,9 +15,7 @@ Architecture
 
 <!DOCTYPE html>
 <html>
-<head>
-<title> </title>
-</head>
+<head></head>
 <body>
 <table border = "1px">
     <caption> Components Used </caption>
